@@ -24,6 +24,6 @@ This repository demonstrates how to leverage GitHub Copilot CLI agent for automa
 
 ### Setup Instructions
 
-1. **Fork this repository** or copy the workflow files to your project
+1. **Fork this repository** or copy the workflow files to your repo
 
 2. **Enable GitHub Actions** in your repository settings
